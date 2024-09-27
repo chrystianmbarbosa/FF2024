@@ -27,6 +27,7 @@ let ehDiferente = a != b;
 let ehEstritIgual = a === b;
 let ehEstritDiferente = a !== b;
 let ehMaior = a > b;
+let ehMenor = a < b;
 let ehMenorOuIgual = a <= b;
 let ehMaiorOuIgual = a >= b;
 
